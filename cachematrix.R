@@ -1,5 +1,5 @@
 ## Programming Assignemnt 2 - R Programming
-## Vimal Kumra M / 18.12.2014
+## Vimal Kumar M / 18.12.2014
 ## Matrix inverse is a costly function, Hence we are trying to cache the inverse of the matrix to avoid repeated calculation
 
 ## This function creates a special "matrix" object that can cache its inverse.
